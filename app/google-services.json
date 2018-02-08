@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "960408932462",
+    "firebase_url": "https://tmoove-37a10.firebaseio.com",
+    "project_id": "tmoove-37a10",
+    "storage_bucket": "tmoove-37a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960408932462:android:93c3615e9c3ecf28",
+        "android_client_info": {
+          "package_name": "com.tamarilloapps.tmoove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960408932462-okpsl17s4v4ctf7lq0q72ohhirs8ltfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamarilloapps.tmoove",
+            "certificate_hash": "238a8362a8c62423d637abfc0d423756d3b122c6"
+          }
+        },
+        {
+          "client_id": "960408932462-8n2rhdb5tl40s2fnb3ca4ubvl0gvgf7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk2_BJb8G74NmBnVQj6uL2y8RrLax8t3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960408932462-8n2rhdb5tl40s2fnb3ca4ubvl0gvgf7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
